@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/meghoshpritam" target="blank"><img src="https://img.shields.io/twitter/follow/meghoshpritam?logo=twitter&style=for-the-badge" alt="meghoshpritam" /></a> </p>
 
-- 📄 Know about my experiences [meghoshpritam.now.sh](meghoshpritam.now.sh)
+- 📄 Know about my experiences [http://meghoshpritam.now.sh](meghoshpritam.now.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
