@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **contact.meghoshpritam@gmail.com**
 
-- 📄 Know about my experiences [mepritam.now.sh](mepritam.now.sh)
+- 📄 Know about my experiences [mepritam.now.sh](https://mepritam.now.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
