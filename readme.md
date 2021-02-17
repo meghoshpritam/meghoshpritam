@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
 
-- 📫 How to reach me **contact.mepritam.dev**
+- 📫 How to reach me **contact@mepritam.dev**
 
 - 📄 Know about my experiences [mepritam.dev](https://mepritam.dev)
 
