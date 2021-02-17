@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate Junior Full Stack Web Developer from India</h3>
 
-- 📫 How to reach me **contact.meghoshpritam@gmail.com**
+- 📫 How to reach me **contact.mepritam.dev**
 
-- 📄 Know about my experiences [mepritam.now.sh](https://mepritam.now.sh)
+- 📄 Know about my experiences [mepritam.dev](https://mepritam.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
