@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Ghosh</h1>
-<h3 align="center">Senior Full Stack Developer | 4.9+ Years Experience | Bengaluru, India</h3>
+<h3 align="center">Software Engineer - II at Nykaa  | 4.9+ Years Experience | Bengaluru, India</h3>
 
 - 📫 How to reach me **contact@mepritam.dev**
 - 📄 Know about my experiences [mepritam.dev](https://mepritam.dev)
